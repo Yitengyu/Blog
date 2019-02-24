@@ -3,7 +3,7 @@ title: 学习Babel（一） —— 历史篇
 catalog: true
 date: 2019-02-01 22:51:44
 subtitle: Babel的前世今生
-header-img: babel_logo
+header-img: babel_tower.png
 tags: babel history
 ---
 
